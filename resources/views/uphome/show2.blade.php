@@ -13,7 +13,7 @@
                     </div>
                     <div class="col">
                         <div class="card-block px-6" align="center">
-                            <p class="card-text">UPHOME FUNERAL HOME</p>
+                            <p class="card-text">UME FUNERAL HOME</p>
                         </div>
                         <div align="center">
                             Email:uuphome44@gmail.com
