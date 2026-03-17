@@ -12,18 +12,18 @@
                     </div>
                     <div class="col">
                         <div class="card-block px-6" align="center">
-                            <p class="card-text">UPHOME FUNERAL HOME</p>
+                            <p class="card-text">UME FUNERAL HOME</p>
                         </div>
                         <div align="center">
-                            Email:uuphome44@gmail.com
+                            Email:uME@gmail.com
                             <div>
                                 Tel:0721875392/0729544203
                             </div>
                             <div>
-                                Website:www.uphomefuneral.com
+                                Website:www.umefuneral.com
                             </div>
                             <div>
-                                Along Nairobi-Nakuru Highway
+                                Along Nairobi-Naivasha Highway
                             </div>
                             <div class="myDiv2">
                                 <h1>Admission Form</h1>
