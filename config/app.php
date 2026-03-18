@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('UME FUNERAL', 'UME FUNERAL'),
+    'name' => env('UME FUNERAL HOME', 'UME FUNERAL HOME'),
 
     /*
     |--------------------------------------------------------------------------
