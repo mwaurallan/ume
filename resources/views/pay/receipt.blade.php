@@ -22,7 +22,7 @@
                            Website:www.umefuneral.com
                        </div>
                        <div>
-                           Along Nairobi-Nakuru Highway
+                           Along Mai Mahiu-Naivasha Highway
                        </div>
                        <div class="myDiv2">
                            <h1>Official Receipt</h1>
