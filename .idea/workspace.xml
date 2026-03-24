@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b181beb-0590-40d0-8c71-17ae16a4dd7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/uphome/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/uphome/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/report/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/report/show.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,6 +248,7 @@
       <workItem from="1674035912578" duration="337000" />
       <workItem from="1773762182530" duration="4552000" />
       <workItem from="1774029425372" duration="5650000" />
+      <workItem from="1774346140596" duration="110000" />
     </task>
     <servers />
   </component>

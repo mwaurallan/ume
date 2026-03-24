@@ -16,9 +16,9 @@
                                 <p class="card-text">UME FUNERAL HOME</p>
                             </div>
                             <div align="center">
-                                Email:ume44@gmail.com
+                                Email:ume@gmail.com
                                 <div>
-                                    Tel:0721875392/0729544203
+                                    Tel:0716265694/0789705352
                                 </div>
                                 <div>
                                     Website:www.umefuneralhome.co.ke
