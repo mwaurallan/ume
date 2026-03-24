@@ -16,15 +16,15 @@
                             <p class="card-text">UME FUNERAL HOME</p>
                         </div>
                         <div align="center">
-                            Email:uuphome44@gmail.com
+                            Email:ume@gmail.com
                             <div>
-                                Tel:0721875392/0729544203
+                                Tel:0716265694/0789705352
                             </div>
                             <div>
-                                Website:www.uphomefuneral.com
+                                Website:www.uphomefuneral.co.ke
                             </div>
                             <div>
-                                Along Nairobi-Nakuru Highway
+                                Along Nairobi-Naivasha Highway
                             </div>
                             <div class="myDiv2">
                                 <h1>Admission Form</h1>
