@@ -20,7 +20,7 @@
                                     Tel:0716265694/0789705352
                                 </div>
                                 <div>
-                                    Website:www.umefuneral.com
+                                    Website:www.umefuneralhome.co.ke
                                 </div>
                                 <div>
                                     Along Mai Mahiu-Naivasha Highway

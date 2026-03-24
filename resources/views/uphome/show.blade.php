@@ -20,7 +20,7 @@
                                 Tel:0721204580/0716265694
                             </div>
                             <div>
-                                Website:www.umefuneral.com
+                                Website:www.umefuneralhome.co.ke
                             </div>
                             <div>
                                 Along Nairobi-Naivasha Highway
