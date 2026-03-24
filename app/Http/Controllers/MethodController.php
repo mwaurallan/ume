@@ -24,7 +24,7 @@ class MethodController extends Controller
 //            'month' => Carbon::now()->month
 //        ]);
         $services=Service::all()->sortByDesc('id');
-        dd($services);
+//        dd($services);
 
         // Category::all()->sortByDesc("created_at");
 //        dd($services);
