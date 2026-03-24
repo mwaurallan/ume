@@ -17,7 +17,7 @@
                             <div align="center">
                                 Email:ume@gmail.com
                                 <div>
-                                Tel:0721204580/0716265694
+                                    Tel:0716265694/0789705352
                                 </div>
                                 <div>
                                     Website:www.umefuneral.com
