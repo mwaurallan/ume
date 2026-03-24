@@ -195,7 +195,7 @@
 
                         </div>
                         <div class="myDiv">
-                        <p style="color:red;">Uphomes Official Details</p>
+                        <p style="color:red;">UME Official Details</p>
                         </div>
                         <div class="row">
                             <div class="col-4">
