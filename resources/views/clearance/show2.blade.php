@@ -20,10 +20,10 @@
                                 Tel:0721875392/0729544203
                                 </div>
                                 <div>
-                                    Website:www.uphomefuneral.com
+                                    Website:www.umefuneralhome.com
                                 </div>
                                 <div>
-                                    Along Nairobi-Nakuru Highway
+                                    Along Maimahiu-Nakuru Highway
                                 </div>
                                 <div class="myDiv2">
                                 <h1>Clearance Form</h1>
